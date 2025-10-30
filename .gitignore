@@ -3,4 +3,4 @@
 *.tfstate.*
 .terraform.lock.hcl
 *.doc
-Day3-state-file/
+
